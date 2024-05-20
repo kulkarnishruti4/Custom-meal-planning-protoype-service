@@ -1,4 +1,4 @@
-package com.dolly.the.sheep.MealInterface;
+package com.dolly.the.sheep.mealInterface;
 
 public interface MealPrototype {
 

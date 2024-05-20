@@ -3,10 +3,10 @@ package com.dolly.the.sheep.factory;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.dolly.the.sheep.MealInterface.MealPrototype;
 import com.dolly.the.sheep.concrete.ChickenMeal;
 import com.dolly.the.sheep.concrete.SeafoodMeal;
 import com.dolly.the.sheep.concrete.VegetarianMeal;
+import com.dolly.the.sheep.mealInterface.MealPrototype;
 
 public class MealPrototypeFactory {
 	

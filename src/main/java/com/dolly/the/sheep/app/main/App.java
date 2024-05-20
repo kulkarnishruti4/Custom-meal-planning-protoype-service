@@ -1,7 +1,7 @@
 package com.dolly.the.sheep.app.main;
 
-import com.dolly.the.sheep.MealInterface.MealPrototype;
 import com.dolly.the.sheep.factory.MealPrototypeFactory;
+import com.dolly.the.sheep.mealInterface.MealPrototype;
 
 public class App {
 	
